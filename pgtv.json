@@ -10,6 +10,51 @@
       "filterable": 0
     },
     {
+      "key": "csp_IQIYI",
+      "name": "🌟爱奇艺",
+      "type": 3,
+      "api": "csp_IQIYI",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_YouKu",
+      "name": "🎬优酷视频",
+      "type": 3,
+      "api": "csp_YouKu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Tencent",
+      "name": "🎥腾讯视频",
+      "type": 3,
+      "api": "csp_Tencent",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_MGTV",
+      "name": "🍊芒果TV",
+      "type": 3,
+      "api": "csp_MGTV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Bili",
+      "name": "🎈哔哩哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "糯米秒播",
       "name": "糯米秒播",
       "type": 3,
@@ -279,8 +324,8 @@
       "filterable": 1
     },
     {
-      "key": "dytt2",
-      "name": "电影天堂2",
+      "key": "dytt",
+      "name": "电影天堂资源",
       "type": 1,
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
