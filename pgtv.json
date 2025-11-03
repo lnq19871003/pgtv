@@ -272,8 +272,8 @@
     {
       "key": "ruyi",
       "name": "💫如意资源",
-      "type": 0,
-      "api": "https://cj.rycjapi.com/api.php/provide/vod",
+      "type": 1,
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -281,8 +281,8 @@
     {
       "key": "bfzy",
       "name": "🌪暴风资源",
-      "type": 0,
-      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -290,17 +290,8 @@
     {
       "key": "tyyszy",
       "name": "🌏天涯资源",
-      "type": 0,
-      "api": "https://tyyszy.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "ffzy",
-      "name": "✨非凡影视",
-      "type": 0,
-      "api": "http://ffzy5.tv/api.php/provide/vod",
+      "type": 1,
+      "api": "https://tyyszyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -308,8 +299,8 @@
     {
       "key": "zy360",
       "name": "🔮360资源",
-      "type": 0,
-      "api": "https://360zy.com/api.php/provide/vod",
+      "type": 1,
+      "api": "https://360zyzz.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -317,8 +308,8 @@
     {
       "key": "maotaizy",
       "name": "🍶茅台资源",
-      "type": 0,
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "type": 1,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -326,8 +317,8 @@
     {
       "key": "wolong",
       "name": "🐉卧龙资源",
-      "type": 0,
-      "api": "https://wolongzyw.com/api.php/provide/vod",
+      "type": 1,
+      "api": "https://collect.wolongzy.cc/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -335,8 +326,8 @@
     {
       "key": "jisu",
       "name": "⚡极速资源",
-      "type": 0,
-      "api": "https://jszyapi.com/api.php/provide/vod",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -344,17 +335,8 @@
     {
       "key": "dbzy",
       "name": "🍿豆瓣资源",
-      "type": 0,
-      "api": "https://dbzy.tv/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "mozhua",
-      "name": "🦈魔爪资源",
-      "type": 0,
-      "api": "https://mozhuazy.com/api.php/provide/vod",
+      "type": 1,
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -362,7 +344,7 @@
     {
       "key": "mdzy",
       "name": "🏙魔都资源",
-      "type": 0,
+      "type": 1,
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
@@ -371,7 +353,7 @@
     {
       "key": "zuid",
       "name": "🌀最大资源",
-      "type": 0,
+      "type": 1,
       "api": "https://api.zuidapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
@@ -380,8 +362,8 @@
     {
       "key": "yinghua",
       "name": "🌸樱花资源",
-      "type": 0,
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "type": 1,
+      "api": " https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -389,8 +371,8 @@
     {
       "key": "wujin",
       "name": "♾无尽资源",
-      "type": 0,
-      "api": "https://api.wujinapi.me/api.php/provide/vod",
+      "type": 1,
+      "api": "https://api.wujinapi.me/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -398,17 +380,8 @@
     {
       "key": "wwzy",
       "name": "📱旺旺短剧",
-      "type": 0,
-      "api": "https://wwzy.tv/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "ikun",
-      "name": "🐣iKun资源",
-      "type": 0,
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "type": 1,
+      "api": "https://api.wwzy.tv/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
