@@ -10,6 +10,35 @@
       "filterable": 0
     },
     {
+      "key": "热播多线",
+      "name": "热播多线",
+      "type": 3,
+      "api": "csp_AppTTGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
+    },
+    {
+      "key": "欢视多线",
+      "name": "欢视多线",
+      "type": 3,
+      "api": "csp_AppTTGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "AO7TcBkd8I/B+Qsa7gqa+pU="
+    },
+       {
+      "key": "csp_SP360",
+      "name": "360影视",
+      "type": 3,
+      "api": "csp_SP360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "异界动漫",
       "name": "异界动漫",
       "type": 3,
@@ -23,15 +52,6 @@
       "name": "日本动漫",
       "type": 3,
       "api": "csp_Anime1Guard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "低端影视-jar",
-      "name": "低端影视",
-      "type": 3,
-      "api": "csp_DdrkGuard",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
